@@ -1,6 +1,3 @@
-# Intuition
-<!-- Describe your first thoughts on how to solve this problem. -->
-
 # Approach
 Approach
 A C++ approach to add two numbers expressed as linked lists, where the digits are kept in reverse order (the 1's digit is at the beginning of the list) and each node in the linked list carries a single number digit.

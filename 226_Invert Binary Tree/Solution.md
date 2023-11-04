@@ -1,13 +1,5 @@
 # Intuition
-We must invert the binary tree in this question.
-Thus, we employ Post Order Treversal, whereby we go via the Left subtree, Right subtree, and finally return to the Parent node.
-We switch the Left and Right subtrees of the parent node when we return.
-
-# Complexity
-Complexity of time: O(N)
-O(N) recursive stack space space complexity
-Code/
-
+We must invert the binary tree in this question. Thus, we employ Post Order Treversal, whereby we go via the Left subtree, Right subtree, and finally return to the Parent node. We switch the Left and Right subtrees of the parent node when we return.
 # Code
 ```
 class Solution
